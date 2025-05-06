@@ -41,7 +41,7 @@
     <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="firebase" width="40" height="40"/>
   </a>
  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
-  <img src="https://github.com/abdulkadirekrem/abdulkadirekrem/blob/main/jetpack_icon.png?raw=true" alt="jetpack compose" width="40" height="40"/>
+  <img src="https://github.com/abdulkadirekrem/abdulkadirekrem/blob/main/jetpace_icon.png?raw=true" alt="jetpack compose" width="40" height="40"/>
 </a>
 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
