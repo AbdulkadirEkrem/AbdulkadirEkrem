@@ -70,11 +70,3 @@
   </a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulkadirekrem&show_icons=true&locale=en&layout=compact" alt="Top languages" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulkadirekrem&show_icons=true&locale=en" alt="GitHub stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkadirekrem" alt="GitHub streak" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadirekrem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
